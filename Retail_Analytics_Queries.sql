@@ -513,6 +513,9 @@ FROM customer_segment
 WHERE CustomerSegment <> 'None'
 GROUP BY CustomerSegment;
 
-
+-- CustomerSegment, NumCustomers
+-- Mid	559
+-- Low	423
+-- High	7
 
 
